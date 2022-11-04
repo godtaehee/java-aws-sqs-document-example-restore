@@ -12,7 +12,7 @@ The following links are my reference to help fix this issue.
 
 ### Reference
 
-[Managing Amazon SQS Queues in Java](https://www.baeldung.com/aws-queues-java)
-[AWS S3 with Java](https://www.baeldung.com/aws-s3-java)
-[AWS SQS FIFO Queue: The queue should either have ContentBasedDeduplication enabled or MessageDeduplicationId provided explicitly?](https://stackoverflow.com/questions/62655047/aws-sqs-fifo-queue-the-queue-should-either-have-contentbaseddeduplication-enabl)
+- [Managing Amazon SQS Queues in Java](https://www.baeldung.com/aws-queues-java)
+- [AWS S3 with Java](https://www.baeldung.com/aws-s3-java)
+- [AWS SQS FIFO Queue: The queue should either have ContentBasedDeduplication enabled or MessageDeduplicationId provided explicitly?](https://stackoverflow.com/questions/62655047/aws-sqs-fifo-queue-the-queue-should-either-have-contentbaseddeduplication-enabl)
 
