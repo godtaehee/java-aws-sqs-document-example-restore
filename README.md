@@ -4,7 +4,7 @@ AWS doesn't update their [offical docs](https://docs.aws.amazon.com/AWSSimpleQue
 
 MessageGroupId is necessary when we send a message to SQS. [You can refer message Group Id on Github docs link](https://github.com/awsdocs/amazon-sqs-developer-guide/blob/main/doc_source/using-messagegroupid-property.md)
 
-But In above doc's example, there is no groupId building in sendMessageRequest Object.
+But In above doc's example, there is no groupId which is builded in sendMessageRequest Object.
 
 So I refer to many reference and I fix it.
 
